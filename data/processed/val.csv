@@ -1,0 +1,645 @@
+symptoms_text,disease_id
+"persistent vomiting, severe headache, severe confusion",36
+"severe jaundice, moderate nausea",24
+"pale stools, persistent dark urine, moderate yellowing of skin",53
+"tremors, persistent muscle stiffness, mild balance problems",29
+"mild weight loss, persistent chest pain, mild chronic cough",3
+"persistent jaundice, moderate abdominal pain, mild fatigue",23
+"severe joint pain, moderate bleeding gums, skin rash, mild high fever, mild severe headache",5
+mild abdominal cramps,7
+"high fever, persistent muscle pain",4
+"severe fatigue, persistent night sweats",45
+"fatigue, moderate chronic cough, moderate shortness of breath",42
+"mild confusion, severe easy bruising, abdominal swelling",25
+"mild weight loss, mild chest pain, night sweats, fever",3
+"moderate headache, severe fever, muscle pain",38
+"persistent nausea, severe vomiting, moderate stomach cramps, mild diarrhea",18
+"moderate loss of appetite, moderate persistent abdominal pain, severe weight loss",47
+"mild muscle pain, severe fever, persistent headache, mild chills",38
+"moderate painful periods, persistent heavy bleeding",43
+"mild skin rash, mild joint pain, moderate fever",33
+"mild nausea, moderate stomach pain, heartburn",28
+"fatigue, severe dry skin, mild cold intolerance",40
+"persistent easy bruising, persistent abdominal swelling",25
+"severe dark urine, persistent fatigue, severe jaundice",23
+"persistent persistent abdominal pain, severe weight loss, mild loss of appetite",47
+"moderate leg cramps, watery diarrhea, moderate severe dehydration",9
+"severe scaly skin, persistent hair loss",35
+"dry mouth, thirst, severe dark urine",10
+"moderate heat intolerance, severe weight loss, mild tremors, palpitations",41
+"stiffness, mild reduced mobility, persistent swelling, mild joint pain",21
+"mild chest tightness, persistent wheezing",13
+"severe swelling, severe stiffness, mild joint pain",21
+"mild itching, moderate red eyes, mild eye discharge",12
+"frequent urination, pelvic pain, severe burning urination",32
+"persistent nasal congestion, persistent headache",17
+"persistent vomiting, mild stomach cramps, mild nausea",18
+"moderate persistent abdominal pain, severe weight loss, loss of appetite",47
+"persistent breast lump, moderate skin changes, breast pain, mild nipple discharge",30
+"severe bleeding during bowel movements, anal pain",50
+"persistent weight loss, moderate stunted growth",8
+"persistent fatigue, severe abdominal swelling, moderate confusion, persistent easy bruising",25
+"moderate chest pain, persistent dizziness, mild headache, moderate shortness of breath",2
+"severe rapid heartbeat, severe pale skin, dizziness, persistent fatigue, mild weakness",0
+"severe nosebleeds, mild headache, shortness of breath, moderate chest pain",2
+"persistent joint pain, persistent stiffness",21
+"difficulty seeing, vision loss, mild distorted vision, severe blurred vision",11
+"moderate memory loss, confusion, severe personality changes, severe difficulty thinking",26
+"mild confusion, moderate dizziness, moderate high body temperature",22
+"mild loose stools, moderate abdominal cramps",7
+"severe scaly skin, mild circular rash, persistent hair loss, moderate itching",35
+"persistent burning urination, persistent frequent urination",32
+"severe weakness, severe diarrhea, loss of appetite",6
+"mild difficulty seeing, mild vision loss, moderate blurred vision, distorted vision",11
+"mild high body temperature, mild confusion, moderate dizziness",22
+"persistent joint pain, high fever, persistent rash, mild headache",4
+"persistent balance problems, mild tremors, mild muscle stiffness",29
+"moderate headache, severe chills, moderate fever",38
+"severe night vision difficulty, moderate cloudy vision",44
+"severe distorted vision, difficulty seeing, moderate blurred vision",11
+"severe night sweats, moderate weight loss, frequent infections",45
+"moderate difficulty breathing, productive cough",15
+"fatigue, weight loss, stunted growth, mild poor appetite",8
+"persistent shortness of breath, persistent chest pain, moderate nosebleeds",2
+"persistent wheezing, mild fatigue, mild chronic cough",42
+"loss of appetite, severe weight loss, moderate persistent abdominal pain",47
+"persistent slow wound healing, mild excessive thirst, mild frequent urination",1
+"stomach pain, severe nausea, mild heartburn",28
+"moderate fatigue, persistent chronic cough, shortness of breath, wheezing",42
+"persistent itching, moderate bleeding during bowel movements, anal pain",50
+severe joint pain,5
+"easy bruising, fatigue, mild abdominal swelling, mild confusion",25
+"moderate fatigue, moderate shortness of breath, severe wheezing",42
+"persistent cloudy vision, severe night vision difficulty, persistent blurred vision",44
+"mild fever, persistent fatigue",33
+"moderate slow movement, persistent tremors, balance problems",29
+"moderate chest pain, shortness of breath, weight loss",49
+"severe stunted growth, mild poor appetite, persistent weight loss",8
+"persistent fever, chest pain",15
+"mild nausea, mild loose stools, moderate abdominal cramps",7
+"persistent stomach pain, persistent bloating, moderate nausea",28
+"bleeding during bowel movements, mild itching, persistent anal pain",50
+"mild weight gain, moderate liver discomfort, severe fatigue",20
+"fever, severe abdominal pain, severe weakness, moderate loss of appetite",6
+"mild muscle stiffness, balance problems, persistent tremors",29
+"severe easy bruising, moderate abdominal swelling, mild confusion",25
+"moderate bleeding gums, persistent weakness, persistent tooth loss, severe joint pain",34
+"blackheads, moderate oily skin",52
+"heat intolerance, severe palpitations, moderate tremors",41
+"mild thirst, moderate dry mouth, moderate dark urine, reduced urination",10
+"leg cramps, mild severe dehydration",9
+"severe bleeding gums, mild tooth loss, weakness",34
+"high body temperature, mild confusion, mild dizziness",22
+"severe mouth ulcers, persistent oral pain, severe difficulty swallowing",46
+"persistent headache, moderate post nasal drip, facial pain",17
+"moderate joint pain, moderate severe headache, mild skin rash, mild high fever, persistent bleeding gums",5
+"severe breast lump, moderate breast pain, persistent skin changes, persistent nipple discharge",30
+"frequent infections, night sweats",45
+"mild muscle pain, persistent joint pain, persistent headache, rash",4
+"mild night vision difficulty, persistent cloudy vision, mild blurred vision",44
+moderate slow movement,29
+"persistent cold intolerance, severe weight gain, moderate fatigue, moderate dry skin",40
+"moderate thirst, moderate reduced urination",10
+"severe indigestion, nausea, mild burning stomach pain",27
+"severe vomiting, severe confusion, moderate fever, severe headache",36
+"severe bleeding gums, moderate skin rash, high fever, severe joint pain",5
+"persistent red patches, mild dry skin, scaling",51
+"severe headache, mild nasal congestion, mild post nasal drip",17
+"persistent diarrhea, severe stomach cramps",18
+"abdominal swelling, mild itching",48
+blurred vision,44
+"severe shortness of breath, mild dizziness, nosebleeds, headache, persistent chest pain",2
+"mild scaling, severe itchy skin",51
+"mild nausea, persistent stomach pain, moderate bloating, severe heartburn",28
+"severe yellowing of skin, dark urine, moderate pale stools, mild fatigue",53
+"persistent headache, post nasal drip",17
+"severe fatigue, shortness of breath, severe weakness",0
+"mild poor appetite, severe weight loss, stunted growth",8
+"severe difficulty thinking, persistent memory loss, confusion",26
+"bleeding during bowel movements, severe anal pain, itching",50
+"moderate weight loss, persistent loss of appetite",47
+"severe headache, vomiting, confusion, mild fever",36
+"severe difficulty seeing, moderate distorted vision, moderate blurred vision",11
+"persistent weight loss, severe jaundice",48
+"oral pain, moderate mouth ulcers, difficulty swallowing",46
+"moderate shortness of breath, persistent chronic cough, fatigue",42
+"mild skin changes, moderate breast lump, severe breast pain",30
+"mild diarrhea, persistent loss of appetite, mild fever, moderate abdominal pain",6
+"moderate loss of appetite, severe nausea, mild jaundice",24
+"severe chills, severe headache, moderate muscle pain, moderate fever",38
+"persistent heavy bleeding, mild painful periods",43
+"dry mouth, persistent dark urine, thirst",10
+"persistent weakness, mild loss of appetite, moderate fever, moderate diarrhea, persistent abdominal pain",6
+"persistent chest pain, moderate persistent cough, mild weight loss",49
+"persistent red eyes, itching, persistent gritty sensation, moderate eye discharge",12
+"mild blurred vision, severe distorted vision, vision loss",11
+"mild pimples, moderate oily skin, moderate blackheads, mild skin inflammation",52
+"moderate fever, moderate chills",38
+"moderate loss of appetite, nausea",24
+"mild pimples, blackheads, moderate oily skin, skin inflammation",52
+"mild headache, moderate post nasal drip",17
+"severe dehydration, persistent nausea, mild loose stools",7
+"moderate leg cramps, severe dehydration, persistent vomiting",9
+"severe memory loss, mild confusion, moderate personality changes",26
+"hard stools, severe bloating",16
+"yellowing of skin, moderate dark urine",53
+"mild painful periods, severe heavy bleeding, severe pelvic pain",43
+"severe weight loss, mild abdominal swelling",48
+"mild hard stools, moderate abdominal discomfort, mild bloating",16
+"severe itching, persistent skin redness, persistent scaly skin",19
+"persistent cold intolerance, persistent dry skin",40
+"severe loose stools, abdominal cramps, mild dehydration",7
+"post nasal drip, severe nasal congestion, headache, mild facial pain",17
+"heat intolerance, palpitations, persistent weight loss",41
+"severe frequent urination, persistent pelvic pain, burning urination",32
+"mild heartburn, persistent nausea, mild bloating, severe stomach pain",28
+"persistent high body temperature, moderate confusion, dizziness",22
+"persistent facial pain, persistent post nasal drip, persistent nasal congestion",17
+"itching, severe abdominal swelling, persistent jaundice, moderate weight loss",48
+"pelvic pain, severe burning urination, persistent frequent urination",32
+"severe scaly skin, mild itching, severe skin redness",19
+"severe dark urine, persistent jaundice, persistent abdominal pain",23
+"moderate pimples, oily skin, severe skin inflammation",52
+"persistent shortness of breath, severe chest tightness, persistent wheezing",13
+"persistent reduced urination, thirst, severe dry mouth",10
+"mild chills, severe fever, headache",38
+"moderate difficulty breathing, mild fatigue, chest pain",15
+"mild cough, severe fever, persistent body pain, severe chills",14
+"moderate loss of appetite, moderate jaundice, moderate fatigue, moderate nausea",24
+"stiffness, severe joint pain, mild swelling, severe reduced mobility",21
+"severe breast lump, moderate skin changes, moderate breast pain, nipple discharge",30
+severe scaly skin,19
+"rapid heartbeat, dizziness, fatigue",0
+mild pale stools,53
+"abdominal cramps, severe loose stools, persistent dehydration, mild nausea",7
+"slow movement, severe balance problems, mild muscle stiffness",29
+"oral pain, difficulty swallowing",46
+"severe circular rash, scaly skin",35
+"mild pelvic pain, severe burning urination",32
+mild stiffness,21
+"severe bloating, persistent abdominal discomfort, moderate hard stools",16
+"mild excessive thirst, moderate frequent urination, severe fatigue",1
+"mild dark urine, jaundice, mild abdominal pain",23
+"moderate frequent urination, mild slow wound healing, severe excessive thirst, moderate fatigue",1
+"severe burning stomach pain, nausea, persistent indigestion",27
+"persistent high fever, bleeding gums, severe joint pain, moderate severe headache",5
+"difficulty swallowing, mild mouth ulcers, mild oral pain",46
+"severe coughing, wheezing, persistent shortness of breath",13
+"pelvic pain, burning urination",32
+"persistent coughing, mild wheezing, severe chest tightness, mild shortness of breath",13
+"burning stomach pain, severe indigestion",27
+"severe skin redness, persistent scaly skin, severe itching",19
+"severe rapid heartbeat, moderate shortness of breath, persistent pale skin",0
+"persistent excess hair growth, moderate irregular periods",39
+"moderate confusion, moderate vomiting, fever",36
+"fatigue, mild abdominal swelling",25
+"mild shortness of breath, severe dizziness, moderate weakness, severe pale skin, rapid heartbeat",0
+"persistent vomiting, severe confusion, moderate fever",36
+"moderate skin rash, severe fatigue",33
+"poor appetite, stunted growth, persistent weight loss",8
+"persistent nipple discharge, persistent breast lump",30
+"moderate excessive thirst, persistent blurred vision, persistent frequent urination, severe slow wound healing",1
+"moderate fever, persistent muscle pain, persistent headache",38
+"severe difficulty breathing, fever, severe chest pain",15
+"moderate reduced urination, moderate thirst, severe dry mouth, moderate dark urine",10
+"persistent memory loss, persistent personality changes, moderate confusion",26
+"persistent acne, mild excess hair growth, moderate irregular periods, moderate weight gain",39
+"moderate weight loss, mild chest pain, persistent cough",49
+"itching, scaly skin",19
+"moderate blackheads, persistent skin inflammation, severe pimples",52
+"mild diarrhea, severe loss of appetite, persistent weakness",6
+"persistent pimples, severe oily skin",52
+"mild weight gain, upper abdominal pain",20
+"severe itching, mild weight loss, moderate jaundice",48
+"mild chest pain, dizziness, moderate headache, moderate shortness of breath",2
+"mild severe dehydration, severe vomiting, mild leg cramps, mild watery diarrhea",9
+"severe bleeding during bowel movements, severe itching, persistent anal pain",50
+"moderate shortness of breath, severe wheezing",13
+"moderate stomach cramps, mild nausea",18
+"oily skin, mild pimples",52
+"severe pelvic pain, heavy bleeding, painful periods",43
+"moderate pale stools, fatigue, severe dark urine",53
+"joint pain, mild rash",37
+"moderate irregular periods, moderate excess hair growth, mild acne",39
+"mild scaling, itchy skin, moderate red patches, mild dry skin",51
+"severe fever, severe headache",38
+"itching, persistent hair loss",35
+"moderate cough, mild fever, severe chills",14
+"moderate itching, mild scaly skin",35
+"persistent dizziness, moderate chest pain, severe nosebleeds, severe headache, moderate shortness of breath",2
+"skin changes, severe breast lump, nipple discharge, breast pain",30
+"moderate joint pain, persistent rash, severe muscle pain, headache, severe high fever",4
+"persistent bloating, severe abdominal discomfort, mild hard stools",16
+"moderate chills, mild fever, severe cough, persistent body pain",14
+"moderate shortness of breath, severe chest pain, persistent weight loss",49
+"persistent diarrhea, severe weakness",6
+"persistent vomiting, moderate severe dehydration, mild leg cramps",9
+"mild vision loss, distorted vision, moderate difficulty seeing",11
+"nosebleeds, moderate headache, moderate shortness of breath, moderate dizziness, mild chest pain",2
+"moderate vision loss, mild distorted vision, blurred vision",11
+"severe red eyes, fever, mild rash, severe joint pain",37
+"nausea, severe fatigue",24
+"upper abdominal pain, persistent fatigue, mild liver discomfort",20
+"moderate thirst, mild dry mouth, severe dark urine",10
+"severe body pain, fever, moderate sore throat",14
+"severe balance problems, severe tremors, mild slow movement",29
+"mild wheezing, moderate chest tightness, moderate shortness of breath, persistent coughing",13
+"severe bloating, mild hard stools, persistent abdominal discomfort",16
+"persistent persistent cough, chest pain, moderate shortness of breath",49
+"persistent fever, chills, moderate sore throat, severe cough",14
+"mild weight gain, persistent fatigue, severe cold intolerance",40
+moderate weight gain,40
+"severe high fever, severe headache, joint pain",4
+"persistent headache, mild fever",38
+"mild frequent urination, mild burning urination",32
+"slow movement, muscle stiffness, moderate balance problems",29
+"persistent pain during intercourse, moderate abnormal bleeding",31
+"moderate blurred vision, severe fatigue, frequent urination",1
+"severe tooth loss, persistent joint pain, bleeding gums, weakness",34
+"severe scaling, severe red patches, persistent dry skin, persistent itchy skin",51
+"mild dry skin, mild weight gain, persistent cold intolerance, moderate fatigue",40
+"fever, severe fatigue, mild chest pain, moderate productive cough, persistent difficulty breathing",15
+"severe nausea, persistent vomiting, mild diarrhea, moderate stomach cramps",18
+"moderate weight gain, severe liver discomfort, moderate fatigue",20
+"moderate abdominal discomfort, bloating",16
+"moderate nausea, burning stomach pain",27
+"severe vomiting, mild stomach cramps, persistent nausea",18
+"muscle pain, persistent headache",4
+"severe jaundice, severe abdominal pain, mild dark urine",23
+"severe joint pain, fever, mild red eyes",37
+persistent loss of appetite,6
+"severe shortness of breath, mild wheezing, persistent coughing, mild chest tightness",13
+"moderate skin rash, fatigue, mild joint pain",33
+"fatigue, persistent dark urine, severe yellowing of skin",53
+persistent cloudy vision,44
+"moderate itching, moderate ring shaped rash, moderate scaly skin",19
+"mild persistent abdominal pain, weight loss, severe loss of appetite",47
+"mild weight loss, fatigue, mild night sweats",45
+"chest pain, severe fever, night sweats",3
+"mild blurred vision, mild excessive thirst",1
+"moderate difficulty thinking, severe confusion, persistent personality changes",26
+"severe night vision difficulty, persistent cloudy vision, mild blurred vision",44
+"weakness, moderate abdominal pain, persistent fever",6
+"persistent headache, post nasal drip, facial pain",17
+"mild joint pain, severe reduced mobility",21
+"persistent weight loss, moderate palpitations, persistent tremors",41
+"confusion, persistent headache, moderate fever",36
+"moderate tooth loss, severe bleeding gums, joint pain",34
+"moderate balance problems, persistent tremors",29
+"moderate fatigue, moderate blurred vision, severe excessive thirst",1
+"shortness of breath, nosebleeds, severe dizziness, severe chest pain",2
+"persistent fatigue, liver discomfort, upper abdominal pain",20
+"severe confusion, moderate fatigue",25
+"mild bleeding during bowel movements, mild anal pain",50
+"mild difficulty seeing, severe blurred vision",11
+"frequent infections, moderate fatigue, moderate weight loss",45
+"moderate weight loss, mild abdominal swelling, moderate itching",48
+"gritty sensation, moderate itching, moderate eye discharge",12
+"moderate chest pain, moderate difficulty breathing, moderate fatigue, moderate fever, moderate productive cough",15
+"mild heartburn, moderate bloating",28
+"mild productive cough, persistent difficulty breathing, mild fever",15
+"weight loss, mild chest pain, persistent night sweats",3
+"mild tremors, severe balance problems, severe slow movement",29
+"severe fever, cough, mild chills, mild body pain",14
+"severe fatigue, severe confusion, moderate easy bruising",25
+"persistent pelvic pain, severe burning urination, mild frequent urination",32
+"severe dehydration, nausea, persistent abdominal cramps, severe loose stools",7
+"persistent weight loss, severe shortness of breath, persistent chest pain",49
+"yellowing of skin, persistent dark urine, moderate pale stools",53
+"persistent cough, moderate shortness of breath, persistent weight loss",49
+"severe dry skin, severe cold intolerance, persistent weight gain, fatigue",40
+"moderate oral pain, moderate mouth ulcers, persistent difficulty swallowing",46
+"moderate dry skin, red patches, moderate scaling, mild itchy skin",51
+"severe bleeding gums, mild weakness, mild tooth loss",34
+"moderate tooth loss, moderate weakness, bleeding gums",34
+"joint pain, moderate muscle pain, moderate rash",4
+"moderate productive cough, moderate difficulty breathing, fatigue, persistent fever, persistent chest pain",15
+"severe scaling, moderate dry skin, itchy skin",51
+"severe nausea, vomiting",18
+"excess hair growth, persistent acne, mild weight gain",39
+"skin inflammation, mild oily skin",52
+persistent leg cramps,9
+"moderate dry skin, persistent red patches, severe itchy skin, moderate scaling",51
+"moderate dark urine, mild abdominal pain",23
+"severe burning stomach pain, moderate indigestion, nausea",27
+"persistent personality changes, persistent memory loss, persistent confusion",26
+"chronic cough, moderate fever",3
+"dehydration, severe nausea",7
+"persistent heat intolerance, mild palpitations, persistent weight loss, severe tremors",41
+"persistent red eyes, severe joint pain, persistent fever",37
+"bleeding during bowel movements, severe itching, persistent anal pain",50
+"chest pain, mild night sweats, mild weight loss",3
+"severe dry mouth, severe reduced urination, thirst",10
+"moderate painful periods, severe heavy bleeding",43
+"persistent breast lump, skin changes, severe breast pain",30
+"mild night sweats, severe frequent infections, moderate fatigue, moderate weight loss",45
+"persistent fever, severe chest pain, moderate night sweats",3
+"difficulty swallowing, severe oral pain, moderate mouth ulcers",46
+"mild fever, severe red eyes, moderate joint pain, moderate rash",37
+"burning stomach pain, persistent indigestion, moderate nausea",27
+"tooth loss, mild bleeding gums, persistent weakness, joint pain",34
+"severe bloating, severe hard stools",16
+"dry skin, mild red patches",51
+"headache, moderate fever",36
+"persistent thirst, severe dry mouth, persistent dark urine",10
+"indigestion, severe nausea, severe burning stomach pain",27
+"moderate fatigue, severe poor appetite",8
+"dizziness, moderate dry skin",22
+"severe irregular periods, severe acne, weight gain, severe excess hair growth",39
+"mild skin rash, persistent bleeding gums, moderate joint pain, persistent high fever",5
+"severe indigestion, moderate nausea, moderate burning stomach pain",27
+"severe heavy bleeding, mild painful periods",43
+"severe dehydration, vomiting",9
+"moderate fever, moderate red eyes, severe rash, persistent joint pain",37
+"vomiting, moderate fever, mild headache",36
+"shortness of breath, chest tightness",13
+"severe hair loss, severe itching, mild scaly skin",35
+"moderate pale stools, severe yellowing of skin, moderate fatigue",53
+"red eyes, persistent gritty sensation, persistent itching",12
+"fatigue, moderate skin rash, moderate fever, moderate joint pain",33
+"persistent stomach pain, bloating, heartburn",28
+"mild chills, body pain, mild sore throat, mild cough, persistent fever",14
+"fatigue, moderate fever",33
+"moderate painful periods, severe heavy bleeding, severe pelvic pain",43
+"severe slow wound healing, frequent urination, severe fatigue",1
+"severe poor appetite, persistent weight loss",8
+"moderate shortness of breath, mild rapid heartbeat, severe fatigue",0
+"severe hair loss, mild itching, circular rash",35
+"moderate palpitations, heat intolerance",41
+"heavy bleeding, mild painful periods, persistent pelvic pain",43
+"muscle pain, moderate rash, severe joint pain, headache, persistent high fever",4
+"severe blackheads, persistent pimples",52
+"persistent shortness of breath, rapid heartbeat, persistent dizziness, persistent pale skin",0
+"persistent reduced mobility, persistent joint pain, severe swelling",21
+"joint pain, moderate reduced mobility, severe stiffness",21
+"persistent fatigue, moderate liver discomfort, persistent weight gain, severe upper abdominal pain",20
+severe nausea,18
+"severe confusion, moderate personality changes, severe memory loss",26
+"mild pelvic pain, severe burning urination",32
+"persistent weight loss, persistent stunted growth, poor appetite, severe fatigue",8
+"mild night vision difficulty, mild blurred vision",44
+"moderate breast lump, moderate skin changes",30
+"mild weight gain, persistent liver discomfort, mild fatigue, persistent upper abdominal pain",20
+"mild pain during intercourse, moderate abnormal bleeding, moderate pelvic pain",31
+"loss of appetite, mild weight loss, moderate persistent abdominal pain",47
+"mild bleeding gums, moderate high fever, mild severe headache",5
+"moderate fever, severe chills, headache",38
+"severe jaundice, itching",48
+"moderate skin rash, moderate bleeding gums, persistent joint pain, severe high fever",5
+"moderate red patches, scaling, severe itchy skin",51
+persistent stiffness,21
+"muscle pain, severe high fever, moderate headache",4
+"mild chronic cough, fatigue, moderate shortness of breath",42
+"mild bleeding gums, severe weakness, mild tooth loss, joint pain",34
+"persistent pimples, persistent oily skin, mild skin inflammation",52
+"severe nausea, severe indigestion",27
+"persistent joint pain, persistent high fever, moderate severe headache",5
+"mild weight loss, persistent persistent abdominal pain, severe loss of appetite",47
+"difficulty swallowing, persistent oral pain, moderate mouth ulcers",46
+"moderate vomiting, moderate confusion, mild fever",36
+"severe confusion, moderate difficulty thinking, moderate personality changes",26
+"persistent nausea, mild loss of appetite, mild fatigue, moderate jaundice",24
+"persistent abdominal discomfort, moderate hard stools",16
+"mild pelvic pain, severe pain during intercourse, moderate abnormal bleeding",31
+"severe frequent infections, severe night sweats, moderate weight loss, fatigue",45
+"severe circular rash, moderate scaly skin",35
+"persistent loss of appetite, persistent persistent abdominal pain, moderate weight loss",47
+"mild distorted vision, mild difficulty seeing, severe blurred vision",11
+"moderate stomach pain, heartburn",28
+"mild itching, severe hair loss, moderate circular rash, severe scaly skin",35
+"persistent easy bruising, severe fatigue",25
+"mild fever, mild skin rash, mild fatigue",33
+"mild frequent infections, fatigue, mild night sweats",45
+"bloating, mild hard stools, persistent abdominal discomfort",16
+mild persistent cough,49
+"persistent irregular periods, weight gain, severe excess hair growth",39
+"moderate itching, bleeding during bowel movements, moderate anal pain",50
+"moderate indigestion, moderate burning stomach pain",27
+"mild red patches, moderate dry skin, moderate scaling, severe itchy skin",51
+"persistent weight gain, irregular periods",39
+"severe blurred vision, mild vision loss",11
+"persistent fatigue, shortness of breath, moderate weakness, severe rapid heartbeat, moderate pale skin",0
+"persistent chills, fever, persistent sore throat",14
+"mild bleeding gums, persistent severe headache, skin rash",5
+"moderate pelvic pain, persistent frequent urination",32
+"persistent stomach pain, severe bloating, mild heartburn, moderate nausea",28
+"severe anal pain, mild itching, moderate bleeding during bowel movements",50
+severe fever,38
+"fever, mild joint pain, rash",37
+"persistent chronic cough, severe wheezing, shortness of breath, fatigue",42
+"severe pain during intercourse, moderate pelvic pain, mild abnormal bleeding",31
+"mild ring shaped rash, severe itching, mild skin redness, moderate scaly skin",19
+"mild headache, moderate confusion, moderate fever",36
+"moderate dizziness, moderate high body temperature, mild dry skin, severe confusion",22
+"severe chest pain, persistent fever",15
+"persistent itching, persistent scaly skin, persistent skin redness, mild ring shaped rash",19
+"liver discomfort, persistent weight gain",20
+"night vision difficulty, cloudy vision, blurred vision",44
+"abdominal swelling, itching",48
+"severe fatigue, moderate easy bruising",25
+"severe difficulty swallowing, severe oral pain, moderate mouth ulcers",46
+"mild pain during intercourse, moderate abnormal bleeding, moderate pelvic pain",31
+"persistent fever, rash, persistent red eyes, moderate joint pain",37
+"mild nausea, moderate loose stools, moderate dehydration",7
+"persistent tooth loss, persistent joint pain, weakness",34
+"persistent confusion, mild dry skin, mild high body temperature, persistent dizziness",22
+"persistent difficulty seeing, blurred vision",11
+"severe dizziness, mild high body temperature, mild dry skin",22
+"mild upper abdominal pain, moderate weight gain, moderate fatigue",20
+"stiffness, moderate reduced mobility, joint pain, moderate swelling",21
+"joint pain, persistent bleeding gums",34
+"severe scaling, itchy skin, dry skin",51
+"chills, moderate fever",14
+"weight loss, moderate persistent abdominal pain, severe loss of appetite",47
+"severe personality changes, mild memory loss, difficulty thinking",26
+"severe mouth ulcers, moderate difficulty swallowing",46
+persistent abnormal bleeding,31
+"mild difficulty swallowing, mild oral pain, mouth ulcers",46
+"severe scaly skin, severe circular rash, mild itching, mild hair loss",35
+"mild wheezing, severe fatigue, moderate shortness of breath, severe chronic cough",42
+"persistent coughing, severe wheezing, chest tightness",13
+"mild headache, mild nasal congestion",17
+"persistent fever, severe joint pain, persistent fatigue",33
+"persistent tooth loss, mild joint pain, bleeding gums",34
+"moderate slow movement, mild muscle stiffness, mild balance problems",29
+"moderate itching, mild anal pain, persistent bleeding during bowel movements",50
+"severe pelvic pain, moderate abnormal bleeding, pain during intercourse",31
+"excessive thirst, slow wound healing",1
+"moderate night sweats, fatigue, mild frequent infections, severe weight loss",45
+"mild oily skin, blackheads",52
+"persistent fever, mild fatigue, severe difficulty breathing, mild productive cough, mild chest pain",15
+"severe hair loss, itching, severe circular rash",35
+"persistent chills, severe sore throat, moderate body pain, persistent cough",14
+"persistent loss of appetite, mild jaundice, moderate fatigue",24
+"mild weight loss, night sweats, fatigue",45
+"moderate persistent abdominal pain, loss of appetite",47
+"persistent abdominal swelling, severe easy bruising, persistent fatigue, moderate confusion",25
+"productive cough, moderate chest pain, persistent fever",15
+"mild blurred vision, mild cloudy vision",44
+"moderate eye discharge, itching, mild red eyes, moderate gritty sensation",12
+"moderate chest tightness, shortness of breath, coughing",13
+"moderate blurred vision, mild slow wound healing, persistent excessive thirst",1
+"mild dizziness, high body temperature",22
+"mild fatigue, moderate stunted growth, mild poor appetite, mild weight loss",8
+"rash, mild red eyes",37
+"persistent fatigue, moderate joint pain, fever, mild skin rash",33
+"severe cold intolerance, moderate fatigue",40
+"moderate circular rash, moderate scaly skin, hair loss, moderate itching",35
+"abnormal bleeding, persistent pain during intercourse",31
+"severe cloudy vision, mild night vision difficulty, moderate blurred vision",44
+"moderate stomach cramps, diarrhea, mild nausea",18
+"severe pale stools, moderate yellowing of skin, dark urine, moderate fatigue",53
+"mild dry skin, severe weight gain, severe cold intolerance",40
+"persistent facial pain, mild post nasal drip, severe nasal congestion",17
+"mild personality changes, mild memory loss, severe difficulty thinking",26
+"mild nausea, mild indigestion, persistent burning stomach pain",27
+"moderate body pain, fever, moderate chills, moderate cough",14
+"severe itching, mild jaundice, moderate weight loss",48
+"severe distorted vision, difficulty seeing, blurred vision, severe vision loss",11
+"mild pale stools, persistent dark urine, mild fatigue",53
+"persistent vomiting, persistent severe dehydration, leg cramps",9
+"severe heartburn, persistent bloating",28
+"persistent confusion, high body temperature, mild dizziness",22
+"moderate frequent urination, moderate pelvic pain",32
+"persistent weight gain, mild fatigue",20
+"mild abdominal cramps, severe dehydration",7
+"moderate excess hair growth, severe irregular periods",39
+"mild dark urine, jaundice, severe abdominal pain",23
+"mild bleeding gums, mild joint pain, mild tooth loss",34
+"severe jaundice, severe weight loss, itching, persistent abdominal swelling",48
+"severe hard stools, persistent bloating, mild abdominal discomfort",16
+"severe slow wound healing, moderate frequent urination, mild fatigue, persistent excessive thirst",1
+"confusion, persistent high body temperature, mild dry skin",22
+"mild jaundice, mild nausea, persistent loss of appetite, fatigue",24
+"severe fever, mild chest pain, mild night sweats",3
+"mild heat intolerance, moderate tremors, severe palpitations, severe weight loss",41
+"mild weight loss, moderate jaundice, moderate itching, moderate abdominal swelling",48
+"mild nausea, severe dehydration, persistent loose stools",7
+"persistent excess hair growth, mild irregular periods, mild weight gain",39
+"persistent abdominal discomfort, hard stools",16
+"pelvic pain, mild pain during intercourse, moderate abnormal bleeding",31
+"mild fatigue, mild cold intolerance, moderate dry skin, weight gain",40
+"severe abdominal pain, severe fever, persistent diarrhea, weakness",6
+"persistent bloating, persistent nausea, severe stomach pain",28
+"mild post nasal drip, mild nasal congestion, moderate facial pain",17
+"moderate confusion, severe personality changes, moderate difficulty thinking, moderate memory loss",26
+"moderate weakness, mild shortness of breath, severe fatigue, persistent dizziness, moderate rapid heartbeat",0
+"heat intolerance, mild palpitations, moderate tremors",41
+"fatigue, dark urine, mild yellowing of skin",53
+"mild weight loss, persistent frequent infections",45
+"severe chronic cough, persistent chest pain",3
+"severe fatigue, moderate abdominal pain",23
+"pelvic pain, severe painful periods",43
+"persistent weight loss, moderate poor appetite",8
+"moderate cold intolerance, severe fatigue, mild weight gain, persistent dry skin",40
+"persistent vomiting, severe confusion, mild fever",36
+"moderate fever, severe cough, sore throat, mild body pain",14
+"severe weight loss, persistent stunted growth",8
+"mild ring shaped rash, itching, moderate skin redness, mild scaly skin",19
+"moderate weight loss, severe tremors, persistent heat intolerance",41
+"moderate reduced urination, dry mouth, moderate thirst",10
+"severe chest pain, mild night sweats, persistent chronic cough, weight loss, persistent fever",3
+"severe nosebleeds, mild chest pain",2
+"persistent chest pain, shortness of breath",49
+"severe severe headache, moderate skin rash, severe high fever, moderate bleeding gums",5
+"severe vomiting, persistent nausea, moderate diarrhea, persistent stomach cramps",18
+"severe persistent cough, severe chest pain, shortness of breath",49
+"moderate persistent abdominal pain, persistent weight loss, severe loss of appetite",47
+"moderate diarrhea, mild fever, persistent weakness",6
+"moderate wheezing, shortness of breath, severe fatigue, moderate chronic cough",42
+"mild rash, persistent fever, persistent red eyes",37
+"mild gritty sensation, moderate itching, eye discharge, severe red eyes",12
+"severe anal pain, severe itching, bleeding during bowel movements",50
+"mild fatigue, persistent cold intolerance, moderate dry skin",40
+"nipple discharge, moderate skin changes, persistent breast lump",30
+"shortness of breath, severe wheezing, moderate fatigue, persistent chronic cough",42
+"moderate weight loss, mild heat intolerance",41
+"upper abdominal pain, mild fatigue",20
+"persistent irregular periods, moderate excess hair growth, mild weight gain",39
+"severe gritty sensation, severe red eyes, itching, severe eye discharge",12
+"mild fatigue, severe dark urine, persistent yellowing of skin, persistent pale stools",53
+"severe jaundice, fatigue",24
+"mild memory loss, persistent personality changes, moderate difficulty thinking",26
+"persistent severe headache, severe skin rash",5
+"persistent fatigue, skin rash, fever, severe joint pain",33
+"persistent rash, moderate joint pain, persistent high fever, muscle pain, persistent headache",4
+"weight loss, persistent stunted growth, moderate poor appetite, fatigue",8
+"persistent abdominal swelling, mild fatigue, moderate confusion",25
+"vomiting, severe nausea",18
+"mild productive cough, severe fever, persistent fatigue",15
+"severe severe dehydration, persistent vomiting, persistent leg cramps, moderate watery diarrhea",9
+"persistent wheezing, persistent shortness of breath",42
+"dizziness, severe rapid heartbeat, persistent shortness of breath",0
+"severe loss of appetite, fatigue, moderate nausea",24
+"severe gritty sensation, red eyes, moderate eye discharge",12
+"mild itching, severe bleeding during bowel movements, mild anal pain",50
+"severe pain during intercourse, persistent pelvic pain, mild abnormal bleeding",31
+"moderate fatigue, mild nausea, moderate jaundice",24
+"severe skin changes, severe breast lump, moderate nipple discharge, breast pain",30
+mild dry mouth,10
+"severe itching, severe abdominal swelling, severe jaundice",48
+"persistent difficulty swallowing, moderate mouth ulcers, mild oral pain",46
+"weight gain, mild excess hair growth, mild irregular periods",39
+"mild joint pain, severe skin rash, mild fever",33
+"persistent headache, severe fever, severe chills, moderate muscle pain",38
+"dry skin, persistent high body temperature, severe dizziness",22
+"coughing, shortness of breath, severe chest tightness",13
+"severe loss of appetite, jaundice, moderate fatigue, persistent nausea",24
+"dizziness, moderate nosebleeds, mild chest pain, headache",2
+"severe stomach pain, bloating, nausea, moderate heartburn",28
+"persistent chest pain, persistent cough, moderate shortness of breath",49
+"persistent abnormal bleeding, persistent pelvic pain, mild pain during intercourse",31
+"mild itching, eye discharge, persistent red eyes, persistent gritty sensation",12
+"moderate frequent urination, moderate excessive thirst, severe blurred vision, slow wound healing, severe fatigue",1
+"severe shortness of breath, nosebleeds, severe headache",2
+"moderate fever, mild night sweats, chronic cough, moderate chest pain",3
+"muscle stiffness, moderate slow movement, moderate balance problems, tremors",29
+"severe night sweats, chronic cough, mild chest pain, mild weight loss",3
+"mild dry skin, moderate scaling, severe red patches",51
+"severe eye discharge, moderate red eyes, moderate gritty sensation",12
+"moderate weakness, abdominal pain, loss of appetite",6
+"moderate severe dehydration, vomiting, persistent leg cramps, mild watery diarrhea",9
+"moderate chest pain, severe headache, nosebleeds, moderate dizziness",2
+"mild red eyes, mild joint pain, mild rash",37
+"moderate shortness of breath, severe dizziness, moderate weakness, severe rapid heartbeat, persistent pale skin",0
+"persistent tremors, palpitations, heat intolerance",41
+"mild itching, moderate scaly skin",19
+"severe jaundice, severe abdominal pain, moderate fatigue",23
+"bloating, mild abdominal discomfort, moderate hard stools",16
+"persistent nipple discharge, mild breast pain, moderate skin changes, moderate breast lump",30
+"mild abdominal pain, mild dark urine, mild fatigue, severe jaundice",23
+"mild itching, moderate ring shaped rash, moderate scaly skin",19
+"persistent difficulty swallowing, mild mouth ulcers",46
+"moderate heavy bleeding, moderate pelvic pain",43
+"persistent cloudy vision, mild night vision difficulty, blurred vision",44
+"mild post nasal drip, mild facial pain, nasal congestion",17
+"leg cramps, severe watery diarrhea, persistent vomiting",9
+"moderate thirst, severe dark urine, mild dry mouth, persistent reduced urination",10
+"severe muscle pain, persistent joint pain, high fever",4
+"mild wheezing, moderate chest tightness, persistent shortness of breath",13
+"severe persistent cough, persistent chest pain, mild weight loss, persistent shortness of breath",49
+"jaundice, abdominal pain, mild fatigue",23
+"moderate nipple discharge, breast lump, skin changes, severe breast pain",30
+"persistent shortness of breath, wheezing",42
+"mild heat intolerance, severe palpitations, tremors, severe weight loss",41
+"severe joint pain, mild rash, persistent high fever",4
+"stomach cramps, severe vomiting, moderate nausea",18
+reduced mobility,21
+reduced mobility,21
+"severe blurred vision, severe cloudy vision",44
+"mild joint pain, moderate skin rash, fever",33
+"moderate severe dehydration, leg cramps, vomiting, persistent watery diarrhea",9
+"persistent excess hair growth, irregular periods, severe weight gain, acne",39
+"mild pelvic pain, mild burning urination, severe frequent urination",32
+"mild painful periods, moderate pelvic pain, severe heavy bleeding",43
+"mild heavy bleeding, mild painful periods, pelvic pain",43
+"moderate abdominal pain, persistent diarrhea",6
+"mild abdominal pain, mild dark urine, moderate fatigue",23
+"moderate fatigue, mild night sweats, moderate weight loss, severe frequent infections",45
+"persistent pelvic pain, mild pain during intercourse, moderate abnormal bleeding",31
+"persistent pimples, severe oily skin, skin inflammation",52
+"mild itching, moderate red eyes, gritty sensation, severe eye discharge",12
+"mild abdominal cramps, moderate nausea, mild dehydration, severe loose stools",7
+"mild red eyes, eye discharge",12
+"nausea, indigestion",27
+"rapid heartbeat, moderate dizziness, fatigue, severe weakness",0
